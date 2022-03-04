@@ -40,12 +40,34 @@ http://red.ipfox.org:8080/1234/12345678/2435
 http://red.ipfox.org:8080/1234/12345678/2434
 #EXTINF:-1,|FR| beIN SPORTS 10
 http://red.ipfox.org:8080/1234/12345678/2440
-#EXTINF:-1,|PT| SPORT TV 1
-http://red.ipfox.org:8080/1234/12345678/30845
-#EXTINF:-1,|PT| SPORT TV 2
-http://red.ipfox.org:8080/1234/12345678/30844
-#EXTINF:-1,|PT| SPORT TV 3
-http://red.ipfox.org:8080/1234/12345678/30843
+#EXTINF:-1,|PO| Sport TV 1 HD
+http://red.ipfox.org:8080/1234/12345678/2673
+#EXTINF:-1,|PO| Sport TV 2 HD
+http://red.ipfox.org:8080/1234/12345678/2672
+#EXTINF:-1,|PO| Sport TV 3 HD
+http://red.ipfox.org:8080/1234/12345678/2671
+#EXTINF:-1,|PO| Sport TV 4
+http://red.ipfox.org:8080/1234/12345678/2670
+#EXTINF:-1,|PO| Sport TV 5
+http://red.ipfox.org:8080/1234/12345678/2669
+#EXTINF:-1,|PO| Sport TV plus
+http://red.ipfox.org:8080/1234/12345678/2668
+#EXTINF:-1,|PO| Eurosport 1 HD
+http://red.ipfox.org:8080/1234/12345678/2688
+#EXTINF:-1,|PO| Eurosport 2 HD
+http://red.ipfox.org:8080/1234/12345678/2706
+#EXTINF:-1,|PO| Eleven Sports 1
+http://red.ipfox.org:8080/1234/12345678/2645
+#EXTINF:-1,|PO| Eleven Sports 2
+http://red.ipfox.org:8080/1234/12345678/2646
+#EXTINF:-1,|PO| Eleven Sports 3
+http://red.ipfox.org:8080/1234/12345678/2647
+#EXTINF:-1,|PO| Eleven Sports 4
+http://red.ipfox.org:8080/1234/12345678/2648
+#EXTINF:-1,|PO| Eleven Sports 5
+http://red.ipfox.org:8080/1234/12345678/2649
+#EXTINF:-1,|PO| Eleven Sports 6
+http://red.ipfox.org:8080/1234/12345678/2650
 #EXTINF:-1,|UK| BT Sport 1 HD
 http://red.ipfox.org:8080/1234/12345678/24169
 #EXTINF:-1,|UK| BT Sport 2 HD

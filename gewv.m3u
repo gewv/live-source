@@ -54,6 +54,10 @@ http://145.239.7.22:8080/victor/victor/27221
 http://145.239.7.22:8080/victor/victor/27222
 #EXTINF:-1,AU: beIN Sports 3
 http://145.239.7.22:8080/victor/victor/27223
+#EXTINF:-1,AU: FOX Sports * 1 HD
+http://145.239.7.22:8080/victor/victor/27237
+#EXTINF:-1,AU: FOX Sports * 2 HD
+http://145.239.7.22:8080/victor/victor/27238
 #EXTINF:-1,|PO| Sport TV 1 HD
 http://red.ipfox.org:8080/1234/12345678/2673
 #EXTINF:-1,|PO| Sport TV 2 HD

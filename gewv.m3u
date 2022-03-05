@@ -128,6 +128,18 @@ http://red.ipfox.org:8080/1234/12345678/17446
 http://red.ipfox.org:8080/1234/12345678/17447
 #EXTINF:-1,|BR| FOX SPORTS 2 HD
 http://red.ipfox.org:8080/1234/12345678/17448
+#EXTINF:-1,|RU| Setanta Sports HD
+http://red.ipfox.org:8080/1234/12345678/36282
+#EXTINF:-1,|RU| Match Futbol 1
+http://red.ipfox.org:8080/1234/12345678/36286
+#EXTINF:-1,|RU| Match Futbol 2
+http://red.ipfox.org:8080/1234/12345678/36267
+#EXTINF:-1,|RU| Match Futbol 3
+http://red.ipfox.org:8080/1234/12345678/36222
+#EXTINF:-1,|RU| Match
+http://red.ipfox.org:8080/1234/12345678/36248
+#EXTINF:-1,|RU| Match Arena
+http://red.ipfox.org:8080/1234/12345678/36247
 #EXTINF:-1,有线新闻台
 http://live.hodtv.vip:25461/live/5633/123/3753.ts
 #EXTINF:-1,有线财经资讯台

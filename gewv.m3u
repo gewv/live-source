@@ -106,6 +106,14 @@ http://red.ipfox.org:8080/1234/12345678/24149
 http://red.ipfox.org:8080/1234/12345678/24151
 #EXTINF:-1,|UK| SKY Sports Premier League
 http://red.ipfox.org:8080/1234/12345678/24153
+#EXTINF:-1,|US| ESPN 1 HD
+http://red.ipfox.org:8080/1234/12345678/27327
+#EXTINF:-1,|US| ESPN 2 HD
+http://red.ipfox.org:8080/1234/12345678/27326
+#EXTINF:-1,|US| ESPN 3 HD
+http://red.ipfox.org:8080/1234/12345678/27325
+#EXTINF:-1,|US| ESPN U HD
+http://red.ipfox.org:8080/1234/12345678/27324
 #EXTINF:-1,有线新闻台
 http://live.hodtv.vip:25461/live/5633/123/3753.ts
 #EXTINF:-1,有线财经资讯台

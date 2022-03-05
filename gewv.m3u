@@ -86,32 +86,6 @@ http://red.ipfox.org:8080/1234/12345678/2648
 http://red.ipfox.org:8080/1234/12345678/2649
 #EXTINF:-1,|PO| Eleven Sports 6
 http://red.ipfox.org:8080/1234/12345678/2650
-#EXTINF:-1,UK:BT SPORT 1
-http://145.239.7.22:8080/victor/victor/40339
-#EXTINF:-1,UK:BT SPORT 2
-http://145.239.7.22:8080/victor/victor/40340
-#EXTINF:-1,BT SPORT 3 HD UK
-http://145.239.7.22:8080/victor/victor/40341
-#EXTINF:-1,UK:BT SPORT ESPN HD
-http://145.239.7.22:8080/victor/victor/40342
-#EXTINF:-1,UK | PREMIERE SPORTS
-http://145.239.7.22:8080/victor/victor/40343
-#EXTINF:-1,PREMIERE SPORTS FHD UK
-http://145.239.7.22:8080/victor/victor/40344
-#EXTINF:-1,UK:SKY SPORTS ARENA HD
-http://145.239.7.22:8080/victor/victor/40345
-#EXTINF:-1,UK:SKY SPORT CRICKET HD
-http://145.239.7.22:8080/victor/victor/40346
-#EXTINF:-1,UK:SKY SPORTS ACTION HD
-http://145.239.7.22:8080/victor/victor/40347
-#EXTINF:-1,UK:SKY SPORTS GOLF HD
-http://145.239.7.22:8080/victor/victor/40348
-#EXTINF:-1,UK:SKY SPORTS F1 HD
-http://145.239.7.22:8080/victor/victor/40349
-#EXTINF:-1,UK:Sky Sport Main Event HD
-http://145.239.7.22:8080/victor/victor/40350
-#EXTINF:-1,UK:Sky Sports Premier League
-http://145.239.7.22:8080/victor/victor/40351
 #EXTINF:-1,有线新闻台
 http://live.hodtv.vip:25461/live/5633/123/3753.ts
 #EXTINF:-1,有线财经资讯台
@@ -132,23 +106,3 @@ http://live.hodtv.vip:25461/live/5633/123/3871.ts
 http://live.hodtv.vip:25461/live/5633/123/3750.ts
 #EXTINF:-1,Now直播
 http://live.hodtv.vip:25461/live/5633/123/3751.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://145.239.7.22:8080/victor/victor/43943
-#EXTINF:-1,FR: BEIN SPORTS 1
-http://145.239.7.22:8080/victor/victor/43944
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://145.239.7.22:8080/victor/victor/43945
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://145.239.7.22:8080/victor/victor/43946
-#EXTINF:-1,FR: beIN Sports MAX 4 HD
-http://145.239.7.22:8080/victor/victor/43947
-#EXTINF:-1,FR: beIN Sports MAX 5 HD
-http://145.239.7.22:8080/victor/victor/43948
-#EXTINF:-1,FR: beIN Sports Max 6 HD
-http://145.239.7.22:8080/victor/victor/43949
-#EXTINF:-1,FR: beIN Sports MAX 7 HD
-http://145.239.7.22:8080/victor/victor/43950
-#EXTINF:-1,FR: beIN Sports MAX 8 HD
-http://145.239.7.22:8080/victor/victor/43951
-#EXTINF:-1,FR: beIN Sports MAX 9 HD
-http://145.239.7.22:8080/victor/victor/43952

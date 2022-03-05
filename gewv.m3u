@@ -85,71 +85,33 @@ http://red.ipfox.org:8080/1234/12345678/2648
 #EXTINF:-1,|PO| Eleven Sports 5
 http://red.ipfox.org:8080/1234/12345678/2649
 #EXTINF:-1,|PO| Eleven Sports 6
-http://red.ipfox.org:8080/1234/12345678/2650 
-#EXTINF:-1,|DE| SKY-SPORT1-FHD
-http://red.ipfox.org:8080/1234/12345678/32150
-#EXTINF:-1,|DE| SKY-SPORT2-FHD
-http://red.ipfox.org:8080/1234/12345678/32149
-#EXTINF:-1,|DE| Sky Sport 3 HD -Event-
-http://red.ipfox.org:8080/1234/12345678/32148
-#EXTINF:-1,|DE| Sky Sport 4 HD -Event-
-http://red.ipfox.org:8080/1234/12345678/32147
-#EXTINF:-1,|DE| Sky Sport Bundesliga 3 -Event-
-http://red.ipfox.org:8080/1234/12345678/32136
-#EXTINF:-1,|DE| Sky Sport Bundesliga 4 -Event-
-http://red.ipfox.org:8080/1234/12345678/32135
-#EXTINF:-1,|DE| Sky Sport Bundesliga 5 -Event-
-http://red.ipfox.org:8080/1234/12345678/32134
-#EXTINF:-1,|UK| BT Sport 1 HD
-http://red.ipfox.org:8080/1234/12345678/24169
-#EXTINF:-1,|UK| BT Sport 2 HD
-http://red.ipfox.org:8080/1234/12345678/24171
-#EXTINF:-1,|UK| BT Sport 3 HD
-http://red.ipfox.org:8080/1234/12345678/24173
-#EXTINF:-1,|UK| BT Sport ESPN
-http://red.ipfox.org:8080/1234/12345678/24175
-#EXTINF:-1,|UK| SKY Sports News
-http://red.ipfox.org:8080/1234/12345678/24147
-#EXTINF:-1,|UK| SKY Sports Main Event
-http://red.ipfox.org:8080/1234/12345678/24149
-#EXTINF:-1,|UK| SKY Sports Football
-http://red.ipfox.org:8080/1234/12345678/24151
-#EXTINF:-1,|UK| SKY Sports Premier League
-http://red.ipfox.org:8080/1234/12345678/24153
-#EXTINF:-1,|US| ESPN 1 HD
-http://red.ipfox.org:8080/1234/12345678/27327
-#EXTINF:-1,|US| ESPN 2 HD
-http://red.ipfox.org:8080/1234/12345678/27326
-#EXTINF:-1,|US| ESPN 3 HD
-http://red.ipfox.org:8080/1234/12345678/27325
-#EXTINF:-1,|US| ESPN U HD
-http://red.ipfox.org:8080/1234/12345678/27324
-#EXTINF:-1,|BR| ESPN SD
-http://red.ipfox.org:8080/1234/12345678/17442
-#EXTINF:-1,|BR| ESPN HD
-http://red.ipfox.org:8080/1234/12345678/17443
-#EXTINF:-1,|BR| ESPN BRASIL HD
-http://red.ipfox.org:8080/1234/12345678/17444
-#EXTINF:-1,|BR| FOX SPORTS SD
-http://red.ipfox.org:8080/1234/12345678/17445
-#EXTINF:-1,|BR| FOX SPORTS HD
-http://red.ipfox.org:8080/1234/12345678/17446
-#EXTINF:-1,|BR| FOX SPORTS 2 SD
-http://red.ipfox.org:8080/1234/12345678/17447
-#EXTINF:-1,|BR| FOX SPORTS 2 HD
-http://red.ipfox.org:8080/1234/12345678/17448
-#EXTINF:-1,|RU| Setanta Sports HD
-http://red.ipfox.org:8080/1234/12345678/36282
-#EXTINF:-1,|RU| Match Futbol 1
-http://red.ipfox.org:8080/1234/12345678/36286
-#EXTINF:-1,|RU| Match Futbol 2
-http://red.ipfox.org:8080/1234/12345678/36267
-#EXTINF:-1,|RU| Match Futbol 3
-http://red.ipfox.org:8080/1234/12345678/36222
-#EXTINF:-1,|RU| Match
-http://red.ipfox.org:8080/1234/12345678/36248
-#EXTINF:-1,|RU| Match Arena
-http://red.ipfox.org:8080/1234/12345678/36247
+http://red.ipfox.org:8080/1234/12345678/2650
+#EXTINF:-1,UK:BT SPORT 1
+http://145.239.7.22:8080/victor/victor/40339
+#EXTINF:-1,UK:BT SPORT 2
+http://145.239.7.22:8080/victor/victor/40340
+#EXTINF:-1,BT SPORT 3 HD UK
+http://145.239.7.22:8080/victor/victor/40341
+#EXTINF:-1,UK:BT SPORT ESPN HD
+http://145.239.7.22:8080/victor/victor/40342
+#EXTINF:-1,UK | PREMIERE SPORTS
+http://145.239.7.22:8080/victor/victor/40343
+#EXTINF:-1,PREMIERE SPORTS FHD UK
+http://145.239.7.22:8080/victor/victor/40344
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://145.239.7.22:8080/victor/victor/40345
+#EXTINF:-1,UK:SKY SPORT CRICKET HD
+http://145.239.7.22:8080/victor/victor/40346
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://145.239.7.22:8080/victor/victor/40347
+#EXTINF:-1,UK:SKY SPORTS GOLF HD
+http://145.239.7.22:8080/victor/victor/40348
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://145.239.7.22:8080/victor/victor/40349
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://145.239.7.22:8080/victor/victor/40350
+#EXTINF:-1,UK:Sky Sports Premier League
+http://145.239.7.22:8080/victor/victor/40351
 #EXTINF:-1,有线新闻台
 http://live.hodtv.vip:25461/live/5633/123/3753.ts
 #EXTINF:-1,有线财经资讯台

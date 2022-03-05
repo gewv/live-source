@@ -114,6 +114,20 @@ http://red.ipfox.org:8080/1234/12345678/27326
 http://red.ipfox.org:8080/1234/12345678/27325
 #EXTINF:-1,|US| ESPN U HD
 http://red.ipfox.org:8080/1234/12345678/27324
+#EXTINF:-1,|BR| ESPN SD
+http://red.ipfox.org:8080/1234/12345678/17442
+#EXTINF:-1,|BR| ESPN HD
+http://red.ipfox.org:8080/1234/12345678/17443
+#EXTINF:-1,|BR| ESPN BRASIL HD
+http://red.ipfox.org:8080/1234/12345678/17444
+#EXTINF:-1,|BR| FOX SPORTS SD
+http://red.ipfox.org:8080/1234/12345678/17445
+#EXTINF:-1,|BR| FOX SPORTS HD
+http://red.ipfox.org:8080/1234/12345678/17446
+#EXTINF:-1,|BR| FOX SPORTS 2 SD
+http://red.ipfox.org:8080/1234/12345678/17447
+#EXTINF:-1,|BR| FOX SPORTS 2 HD
+http://red.ipfox.org:8080/1234/12345678/17448
 #EXTINF:-1,有线新闻台
 http://live.hodtv.vip:25461/live/5633/123/3753.ts
 #EXTINF:-1,有线财经资讯台

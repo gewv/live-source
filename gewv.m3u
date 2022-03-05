@@ -132,3 +132,23 @@ http://live.hodtv.vip:25461/live/5633/123/3871.ts
 http://live.hodtv.vip:25461/live/5633/123/3750.ts
 #EXTINF:-1,Now直播
 http://live.hodtv.vip:25461/live/5633/123/3751.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://145.239.7.22:8080/victor/victor/43943
+#EXTINF:-1,FR: BEIN SPORTS 1
+http://145.239.7.22:8080/victor/victor/43944
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://145.239.7.22:8080/victor/victor/43945
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://145.239.7.22:8080/victor/victor/43946
+#EXTINF:-1,FR: beIN Sports MAX 4 HD
+http://145.239.7.22:8080/victor/victor/43947
+#EXTINF:-1,FR: beIN Sports MAX 5 HD
+http://145.239.7.22:8080/victor/victor/43948
+#EXTINF:-1,FR: beIN Sports Max 6 HD
+http://145.239.7.22:8080/victor/victor/43949
+#EXTINF:-1,FR: beIN Sports MAX 7 HD
+http://145.239.7.22:8080/victor/victor/43950
+#EXTINF:-1,FR: beIN Sports MAX 8 HD
+http://145.239.7.22:8080/victor/victor/43951
+#EXTINF:-1,FR: beIN Sports MAX 9 HD
+http://145.239.7.22:8080/victor/victor/43952

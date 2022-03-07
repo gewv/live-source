@@ -76,72 +76,34 @@ http://red.ipfox.org:8080/1234/12345678/2648
 http://red.ipfox.org:8080/1234/12345678/2649
 #EXTINF:-1,|PO| Eleven Sports 6
 http://red.ipfox.org:8080/1234/12345678/2650
-#EXTINF:-1,UK: BT Sports 1 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1927
-#EXTINF:-1,UK: BT Sports 2 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1928
-#EXTINF:-1,UK: BT Sports 3 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1929
-#EXTINF:-1,UK: EIR SPORTS 1 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1930
-#EXTINF:-1,UK: EIR SPORTS 2 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1931
-#EXTINF:-1,UK: POP Kids
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1934
-#EXTINF:-1,UK: PREMIER SPORTS 1 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1935
-#EXTINF:-1,UK: SKY SPORT RACING
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1936
-#EXTINF:-1,UK: Sky Sports Action HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1937
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1938
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1940
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1941
-#EXTINF:-1,UK: Sky Sports Mix HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1942
-#EXTINF:-1,UK: Sky Sports News HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1943
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://www.magicoiptv.org:8080/abcd1234/abcd1234/1944
-#EXTINF:-1,CA | SPORTSNET 360
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/883
-#EXTINF:-1,CA | SPORTSNET EAST
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1262
-#EXTINF:-1,CA | SPORTSNET ONE
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/884
-#EXTINF:-1,CA | SUPER SPORTS PAK 01
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3915
-#EXTINF:-1,CA | SUPER SPORTS PAK 02
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3914
-#EXTINF:-1,CA | SUPER SPORTS PAK 03
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3913
-#EXTINF:-1,CA | SUPER SPORTS PAK 04
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3912
-#EXTINF:-1,CA | SUPER SPORTS PAK 05
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3911
-#EXTINF:-1,CA | SUPER SPORTS PAK 06
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3910
-#EXTINF:-1,CA | SUPER SPORTS PAK 07
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3909
-#EXTINF:-1,CA | SUPER SPORTS PAK 08
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2766
-#EXTINF:-1,CA | SUPER SPORTS PAK 09
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2762
-#EXTINF:-1,CA | SUPER SPORTS PAK 10
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2756
-#EXTINF:-1,CA | SUPER SPORTS PAK 11
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3639
-#EXTINF:-1,CA | SUPER SPORTS PAK 12
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3638
-#EXTINF:-1,CA | SUPER SPORTS PAK 13
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2782
-#EXTINF:-1,CA | SUPER SPORTS PAK 14
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2779
-#EXTINF:-1,CA | SUPER SPORTS PAK 15
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/2776
+#EXTINF:-1,TH | PremierHD1
+http://urtv.cc:80/297340/297340/8811
+#EXTINF:-1,TH | PremierHD2
+http://urtv.cc:80/297340/297340/8812
+#EXTINF:-1,TH | PremierHD3
+http://urtv.cc:80/297340/297340/8813
+#EXTINF:-1,TH | PremierHD4
+http://urtv.cc:80/297340/297340/8814
+#EXTINF:-1,TH | PremierHD5
+http://urtv.cc:80/297340/297340/8815
+#EXTINF:-1,TH | SkynetsportHD
+http://urtv.cc:80/297340/297340/8816
+#EXTINF:-1,TH | True Sport HD1
+http://urtv.cc:80/297340/297340/8817
+#EXTINF:-1,TH | True Sport HD2
+http://urtv.cc:80/297340/297340/8818
+#EXTINF:-1,TH | True Sport HD3
+http://urtv.cc:80/297340/297340/8819
+#EXTINF:-1,TH | True Sport HD4
+http://urtv.cc:80/297340/297340/8820
+#EXTINF:-1,TH | Fox Sport2
+http://urtv.cc:80/297340/297340/8821
+#EXTINF:-1,TH | Fox Sport3
+http://urtv.cc:80/297340/297340/8822
+#EXTINF:-1,TH | Tennis HD
+http://urtv.cc:80/297340/297340/8823
+#EXTINF:-1,TH | NBA HD
+http://urtv.cc:80/297340/297340/8824
 #EXTINF:-1,TUDNXTRA 1 HD
 http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1611
 #EXTINF:-1,TUDNXTRA 2 HD
@@ -180,16 +142,40 @@ http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3748
 http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3749
 #EXTINF:-1,PREMIERE HD | 08
 http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/3750
-#EXTINF:-1,BEINSPORTS 4 HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1606
-#EXTINF:-1,BEINSPORTS 5 HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1607
-#EXTINF:-1,BEINSPORTS 6 HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1608
-#EXTINF:-1,BEINSPORTS 7 HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1609
-#EXTINF:-1,BEINSPORTS 8 HD
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1610
+#EXTINF:-1,SPOTV
+http://urtv.cc:80/297340/297340/9033
+#EXTINF:-1,ASTRO Arena HD
+http://urtv.cc:80/297340/297340/6707
+#EXTINF:-1,Arena 2
+http://urtv.cc:80/297340/297340/9028
+#EXTINF:-1,ASTRO SUPERSPORT HD
+http://urtv.cc:80/297340/297340/6708
+#EXTINF:-1,ASSP 1
+http://urtv.cc:80/297340/297340/9024
+#EXTINF:-1,ASTRO SUPERSPORT 2 HD
+http://urtv.cc:80/297340/297340/6710
+#EXTINF:-1,ASSP 2
+http://urtv.cc:80/297340/297340/9025
+#EXTINF:-1,ASTRO SUPERSPORT 3 HD
+http://urtv.cc:80/297340/297340/6711
+#EXTINF:-1,ASSP 3 (LIVE EPL ONLY)
+http://urtv.cc:80/297340/297340/9020
+#EXTINF:-1,ASTRO SUPERSPORT 4 HD
+http://urtv.cc:80/297340/297340/6712
+#EXTINF:-1,ASSP 4
+http://urtv.cc:80/297340/297340/9026
+#EXTINF:-1,Astro Supersport 5
+http://urtv.cc:80/297340/297340/9029
+#EXTINF:-1,FOX Sports HD
+http://urtv.cc:80/297340/297340/6793
+#EXTINF:-1,ASTRO Cricket
+http://urtv.cc:80/297340/297340/6717
+#EXTINF:-1,beIN Sports
+http://urtv.cc:80/297340/297340/6749
+#EXTINF:-1,beIN MAX
+http://urtv.cc:80/297340/297340/6748
+#EXTINF:-1,beIN MAX 2
+http://urtv.cc:80/297340/297340/7195
 #EXTINF:-1,有线新闻台
 http://live.hodtv.vip:25461/live/5633/123/3753.ts
 #EXTINF:-1,有线财经资讯台
@@ -210,3 +196,39 @@ http://live.hodtv.vip:25461/live/5633/123/3871.ts
 http://live.hodtv.vip:25461/live/5633/123/3750.ts
 #EXTINF:-1,Now直播
 http://live.hodtv.vip:25461/live/5633/123/3751.ts
+#EXTINF:-1,Discovery Science HD
+http://urtv.cc:80/297340/297340/6774
+#EXTINF:-1,Discovery HD
+http://urtv.cc:80/297340/297340/6773
+#EXTINF:-1,Discovery Asia
+http://urtv.cc:80/297340/297340/6772
+#EXTINF:-1,Cinemax FHD
+http://urtv.cc:80/297340/297340/7062
+#EXTINF:-1,HBO FHD
+http://urtv.cc:80/297340/297340/7067
+#EXTINF:-1,HBO Hits FHD
+http://urtv.cc:80/297340/297340/7068
+#EXTINF:-1,HBO Signature FHD
+http://urtv.cc:80/297340/297340/7069
+#EXTINF:-1,HBO Family FHD
+http://urtv.cc:80/297340/297340/7070
+#EXTINF:-1,Hits Movies
+http://urtv.cc:80/297340/297340/7066
+#EXTINF:-1,Red By HBO HD
+http://urtv.cc:80/297340/297340/7071
+#EXTINF:-1,Warner TV HD
+http://urtv.cc:80/297340/297340/7072
+#EXTINF:-1,tVN movies HD
+http://urtv.cc:80/297340/297340/7074
+#EXTINF:-1,National Geographic HD
+http://urtv.cc:80/297340/297340/7075
+#EXTINF:-1,Nat Geo Wild HD
+http://urtv.cc:80/297340/297340/7081
+#EXTINF:-1,Nat Geo People HD
+http://urtv.cc:80/297340/297340/7080
+#EXTINF:-1,History FHD
+http://urtv.cc:80/297340/297340/7079
+#EXTINF:-1,Discovery Channel HD
+http://urtv.cc:80/297340/297340/7078
+#EXTINF:-1,Animal Planet
+http://urtv.cc:80/297340/297340/7077

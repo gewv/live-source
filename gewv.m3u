@@ -4,42 +4,6 @@ http://iptv.tvfix.org/hls/mydy.m3u8
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1,CCTV5+
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1,AU: Fox Sports 501 FHD
-http://1tv1.net:8080/hakim2021/123456/148521
-#EXTINF:-1,AU: Fox Sports 502 FHD
-http://1tv1.net:8080/hakim2021/123456/148522
-#EXTINF:-1,AU: Fox Sports 503 FHD
-http://1tv1.net:8080/hakim2021/123456/148523
-#EXTINF:-1,AU: Fox Sports 504 FHD
-http://1tv1.net:8080/hakim2021/123456/148524
-#EXTINF:-1,AU: Fox Sports 505 FHD
-http://1tv1.net:8080/hakim2021/123456/148525
-#EXTINF:-1,AU: Fox Sports 506 FHD
-http://1tv1.net:8080/hakim2021/123456/148526
-#EXTINF:-1,AU: Fox Sports 507 FHD
-http://1tv1.net:8080/hakim2021/123456/148527
-#EXTINF:-1,AU: Fox Sports News FHD
-http://1tv1.net:8080/hakim2021/123456/148528
-#EXTINF:-1,UK: Sky Sports PL FHD
-http://1tv1.net:8080/hakim2021/123456/55384
-#EXTINF:-1,UK: SKY SPORTS NEWS FHD
-http://1tv1.net:8080/hakim2021/123456/11667
-#EXTINF:-1,UK: Sky Sports Mix FHD
-http://1tv1.net:8080/hakim2021/123456/55385
-#EXTINF:-1,UK: Sky Sports Main Event FHD
-http://1tv1.net:8080/hakim2021/123456/55382
-#EXTINF:-1,UK: Sky Sports Golf FHD
-http://1tv1.net:8080/hakim2021/123456/55386
-#EXTINF:-1,UK: Sky Sports FOOTBALL FHD
-http://1tv1.net:8080/hakim2021/123456/55390
-#EXTINF:-1,UK: Sky Sports F1 FHD
-http://1tv1.net:8080/hakim2021/123456/55383
-#EXTINF:-1,UK: Sky Sports Cricket FHD
-http://1tv1.net:8080/hakim2021/123456/55387
-#EXTINF:-1,UK: Sky Sports Arena FHD
-http://1tv1.net:8080/hakim2021/123456/55388
-#EXTINF:-1,UK: Sky Sports Action FHD
-http://1tv1.net:8080/hakim2021/123456/55389
 #EXTINF:-1,beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
 #EXTINF:-1,beIN Sport Premium 02 (1080P)

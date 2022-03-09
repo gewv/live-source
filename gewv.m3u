@@ -102,6 +102,54 @@ http://red.ipfox.org:8080/1234/12345678/2648
 http://red.ipfox.org:8080/1234/12345678/2649
 #EXTINF:-1,|PO| Eleven Sports 6
 http://red.ipfox.org:8080/1234/12345678/2650
+#EXTINF:-1,Sport TV 1 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/8818
+#EXTINF:-1,Sport TV 1 [B] FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/13097
+#EXTINF:-1,Sport TV 1 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/13096
+#EXTINF:-1,Sport TV 2 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/7481
+#EXTINF:-1,Sport TV 2 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/8814
+#EXTINF:-1,Sport TV 2 PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/13093
+#EXTINF:-1,Sport TV 3 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/8817
+#EXTINF:-1,Sport TV 3 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/8813
+#EXTINF:-1,Sport TV 3 PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/13091
+#EXTINF:-1,Sport TV 4 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/8816
+#EXTINF:-1,Sport TV 4 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/7479
+#EXTINF:-1,Sport TV 4 PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/13089
+#EXTINF:-1,Sport TV 5 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/7478
+#EXTINF:-1,Sport TV 5 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/8812
+#EXTINF:-1,Sport TV 5 PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/13087
+#EXTINF:-1,Sport TV + FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/7477
+#EXTINF:-1,Eleven Sport 1 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/51927
+#EXTINF:-1,Eleven Sport 1 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/694239
+#EXTINF:-1,Eleven Sport 2 FHD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/694190
+#EXTINF:-1,Eleven Sport 2 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/51926
+#EXTINF:-1,Eleven Sport 3 PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/691332
+#EXTINF:-1,Eleven Sport 4 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/51924
+#EXTINF:-1,Eleven Sport 5 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/51923
+#EXTINF:-1,Eleven Sport 6 HD PT
+http://satelliteiptv.xyz:8080/nmpe23ho2/4k4drrsik/51922
 #EXTINF:-1,TUDNXTRA 1 HD
 http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1611
 #EXTINF:-1,TUDNXTRA 2 HD

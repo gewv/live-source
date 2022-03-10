@@ -4,6 +4,42 @@ http://iptv.tvfix.org/hls/mydy.m3u8
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1,CCTV5+
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1,AR| beIN SPORTS Premium 4K 1
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167696
+#EXTINF:-1,AR| beIN SPORTS Premium 4K 2
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167697
+#EXTINF:-1,AR| beIN SPORTS Premium 4K 3
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167698
+#EXTINF:-1,AR| beIN SPORTS 4K 1
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167699
+#EXTINF:-1,AR| beIN SPORTS 4K 2
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167700
+#EXTINF:-1,AR| beIN SPORTS 4K 3
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167701
+#EXTINF:-1,AR| beIN SPORTS 4K 4
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167702
+#EXTINF:-1,AR| beIN SPORTS 4K 5
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167703
+#EXTINF:-1,AR| beIN SPORTS 4K 6
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167704
+#EXTINF:-1,AR| beIN SPORTS 4K 7
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167705
+#EXTINF:-1,AR| beIN Sport English 4k 2
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167706
+#EXTINF:-1,AR| beIN Sport English 4k 3
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167707
+#EXTINF:-1,AR| beIN Sport French 4k 1
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167708
+#EXTINF:-1,AR| beIN Sport French 4k 2
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167709
+#EXTINF:-1,AR| beIN Sport English 4k 1
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167710
+#EXTINF:-1,AR| Bein Sport NBA 4K
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167711
+#EXTINF:-1,AR| Bein Sport Xtra 1 4K
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167712
+#EXTINF:-1,AR| Bein Sport Xtra 2 4K
+http://m12tv.co:80/XZKh6YYyUz/bwVzDbJaD0/167713
 #EXTINF:-1,beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
 #EXTINF:-1,beIN Sport Premium 02 (1080P)

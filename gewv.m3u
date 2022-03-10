@@ -392,6 +392,8 @@ http://iptv.tvfix.org/hls/channelv.m3u8
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1,Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##########   VIP Sports   ##########" tvg-logo="" group-title="VIP Sports",##########   VIP Sports   ##########
+http://magmegiill2mig4zil.funtogether.xyz:8080/CZFPJipbHU/YD3uyGBmAX/17201
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 1 HD HK VIP SPORTS" tvg-logo="" group-title="VIP Sports",Now Sports 1 HD HK VIP SPORTS
 http://magmegiill2mig4zil.funtogether.xyz:8080/CZFPJipbHU/YD3uyGBmAX/101928
 #EXTINF:-1 tvg-id="" tvg-name="Now Sports 2 HD HK VIP SPORTS" tvg-logo="" group-title="VIP Sports",Now Sports 2 HD HK VIP SPORTS

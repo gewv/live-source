@@ -566,6 +566,8 @@ http://livetv.dnsfor.me:80/channel.6.m3u8
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1,Now Sports Prime 630
 http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1,澳視體育
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,澳视澳门[1280*720]
 http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1,澳视澳门[1280*720]

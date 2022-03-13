@@ -921,3 +921,19 @@ http://iptv.tvfix.org/hls/channelv.m3u8
 http://iptv.tvfix.org/hls/startv.m3u8
 #EXTINF:-1,Star Sports
 http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1,東森電影
+http://itv.my.to/gd/?id=58&play=2
+#EXTINF:-1,東森電影
+http://dllb.jxin122.top/jj.php?id=29&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1,東森電影
+http://mmitv.top/pltv/gdgz.php?id=dsdy&upt=604ef0611cb50f83
+#EXTINF:-1,龍翔時代
+http://itv.my.to/gd?id=38&play=2
+#EXTINF:-1,龍翔時代
+mitv://ns2.hellotvvod.com:9906/b55f3db64b8548d7967475fc4133128a
+#EXTINF:-1,美亞電影
+mitv://ns2.hellotvvod.com:9906/893a1a9d8b3a4efa8b26e0e89f996bb5
+#EXTINF:-1,東森洋片台
+http://125.227.210.37:18685/VideoInput/play.ts
+#EXTINF:-1,東森台戲劇
+http://125.227.210.55:17524/VideoInput/play.ts

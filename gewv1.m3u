@@ -731,3 +731,27 @@ http://s2.famousiptv.com:8080/a3:53:78:b2:8e:7e/152864/81083
 http://s2.famousiptv.com:8080/a3:53:78:b2:8e:7e/152864/81084
 #EXTINF:-1 tvg-id="" tvg-name="|IT| DAZN SPORT 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/daznsport4.png" group-title=" ♣♦♣------|IT| ITALY |IT|-----♣♦♣",|IT| DAZN SPORT 4 HD
 http://s2.famousiptv.com:8080/a3:53:78:b2:8e:7e/152864/81085
+#EXTINF:-1,松視1
+mitv://ns2.hellotvvod.com:9906/256cd356e2e7424aaef03b07170c0a7c.ts
+#EXTINF:-1,松視2
+https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+#EXTINF:-1,松視3
+https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+#EXTINF:-1,潘多拉玩美
+https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+#EXTINF:-1,潘朵啦粉红
+mitv://ns2.hellotvvod.com:9906/d2c2dcda43a847158de3be53e05f5fba.ts
+#EXTINF:-1,極限電影
+mitv://ns2.hellotvvod.com:9906/5a3618a3b5d0466fb70850317de5e907.ts
+#EXTINF:-1,HAPPY
+mitv://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89.ts
+#EXTINF:-1,彩虹電影
+mitv://ns2.hellotvvod.com:9906/5846f10a1dca4e889226fbb813d269af.ts
+#EXTINF:-1,HOT
+mitv://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa.ts
+#EXTINF:-1,香蕉
+mitv://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0.ts
+#EXTINF:-1,彩虹E
+mitv://ns2.hellotvvod.com:9906/5ec7ebdf20d3435986ee50b5e67209ba.ts
+#EXTINF:-1,LOOK
+mitv://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8.ts

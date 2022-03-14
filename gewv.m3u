@@ -847,6 +847,20 @@ http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/42923
 
 #EXTINF:-1,TUDN
 http://190.61.102.67:2000/play/a08j/index.m3u8
+#EXTINF:-1,330 FOX SPORT
+http://190.61.102.67:2000/play/a061/index.m3u8
+#EXTINF:-1,334 FoxSports3
+http://190.61.102.67:2000/play/a00w/index.m3u8
+#EXTINF:-1,336 Claro Sport
+http://190.61.102.67:2000/play/a053/index.m3u8
+#EXTINF:-1,338 ESPN 2
+http://190.61.102.67:2000/play/a063/index.m3u8
+#EXTINF:-1,342 ESPN
+http://190.61.102.67:2000/play/a064/index.m3u8
+#EXTINF:-1,344 ESPN3
+http://190.61.102.67:2000/play/a03n/index.m3u8
+#EXTINF:-1,Tigo Sport GT
+http://190.61.102.67:2000/play/a08i/index.m3u8
 
 #EXTINF:-1,Now直播331台
 http://livetv.dnsfor.me:80/channel.3.m3u8

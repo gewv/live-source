@@ -845,6 +845,9 @@ http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/42922
 #EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 6" tvg-logo="" group-title="PORTUGUESE",ELEVEN SPORT 6
 http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/42923
 
+#EXTINF:-1,TUDN
+http://190.61.102.67:2000/play/a08j/index.m3u8
+
 #EXTINF:-1,Now直播331台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1,Now新聞332台

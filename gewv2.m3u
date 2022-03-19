@@ -19,6 +19,13 @@ http://red.ipfox.org:8080/1234/12345678/31488
 #EXTINF:-1,beIN Sport 07 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31487
 
+#EXTINF:-1,BT SPORT 1 - UK
+http://breakingcable.xyz:80/5uhXSbB2g/1609164098/649381
+#EXTINF:-1,BT SPORT 2 - UK
+http://breakingcable.xyz:80/5uhXSbB2g/1609164098/649382
+#EXTINF:-1,BT SPORT 3 - UK
+http://breakingcable.xyz:80/5uhXSbB2g/1609164098/649383
+
 #EXTINF:-1,马来西亚Astro SUPERSPORT 1
 http://50.7.218.42:8278/Assp1/playlist.m3u8?tid=m020000000015774327&ct=18586&tsum=540009a22dc698e4c187a714934cf93b
 #EXTINF:-1,马来西亚Astro SUPERSPORT 3

@@ -19,6 +19,17 @@ http://red.ipfox.org:8080/1234/12345678/31488
 #EXTINF:-1,beIN Sport 07 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31487
 
+#EXTINF:-1,马来西亚Astro SUPERSPORT 1
+http://50.7.218.42:8278/Assp1/playlist.m3u8?tid=m020000000015774327&ct=18586&tsum=540009a22dc698e4c187a714934cf93b
+#EXTINF:-1,马来西亚Astro SUPERSPORT 3
+http://50.7.218.42:8278/Assp3/playlist.m3u8?tid=ME9E8031007880310078&ct=19030&tsum=51f9fb5f5a19fd24820604861c2470cb
+
+#EXTINF:-1,澳视体育
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,澳视体育
+http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,澳视体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1,国家地理频道 TWAIWAN
 http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
@@ -76,13 +87,6 @@ http://50.7.218.42:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&t
 http://50.7.218.42:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 #EXTINF:-1,博斯网球
 http://50.7.218.42:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-
-#EXTINF:-1,澳视体育
-http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1,澳视体育
-http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1,澳视体育
-http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1,湖南卫视 4M1080
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8

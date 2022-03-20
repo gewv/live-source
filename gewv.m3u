@@ -6,6 +6,8 @@ http://iptv.tvfix.org/hls/mydy2.m3u8
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1,CCTV5+
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1,廣東體育
+http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,beIN Sport Premium 01 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31498
 #EXTINF:-1,beIN Sport Premium 02 (1080P)

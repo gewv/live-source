@@ -19,6 +19,17 @@ http://red.ipfox.org:8080/1234/12345678/31488
 #EXTINF:-1,beIN Sport 07 (1080P)
 http://red.ipfox.org:8080/1234/12345678/31487
 
+#EXTINF:-1,BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1,BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1,BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1,BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1,Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
 #EXTINF:-1,DAZN 1 FHD IT
 http://satelliteiptv.xyz:8080/s0gnjrbwk/pgwxhreute/686256
 #EXTINF:-1,DAZN 1 HD IT

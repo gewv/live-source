@@ -160,23 +160,6 @@ http://satelliteiptv.xyz:8080/Mort4K/1bhrcnx2z/54678
 #EXTINF:-1,beIN Sports Max 8 FR
 http://satelliteiptv.xyz:8080/Mort4K/1bhrcnx2z/5466
 
-#EXTINF:-1,TUDN
-http://190.61.102.67:2000/play/a08j/index.m3u8
-#EXTINF:-1,330 FOX SPORT
-http://190.61.102.67:2000/play/a061/index.m3u8
-#EXTINF:-1,334 FoxSports3
-http://190.61.102.67:2000/play/a00w/index.m3u8
-#EXTINF:-1,336 Claro Sport
-http://190.61.102.67:2000/play/a053/index.m3u8
-#EXTINF:-1,338 ESPN 2
-http://190.61.102.67:2000/play/a063/index.m3u8
-#EXTINF:-1,342 ESPN
-http://190.61.102.67:2000/play/a064/index.m3u8
-#EXTINF:-1,344 ESPN3
-http://190.61.102.67:2000/play/a03n/index.m3u8
-#EXTINF:-1,Tigo Sport GT
-http://190.61.102.67:2000/play/a08i/index.m3u8
-
 #EXTINF:-1,Now直播331台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1,Now新聞332台
@@ -229,14 +212,7 @@ http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 #EXTINF:-1,经典港剧
 http://dyscdnali1.douyucdn.cn/live/4549169rv4OKGN7X.flv?uuid=
-#EXTINF:-1,乐视_动作电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu
-#EXTINF:-1,乐视_经典电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying
-#EXTINF:-1,乐视_综艺节目
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi
-#EXTINF:-1,乐视_喜剧电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju
+
 #EXTINF:-1,Animax
 http://iptv.tvfix.org/hls/animax.m3u8
 #EXTINF:-1,Animax(第2声道)

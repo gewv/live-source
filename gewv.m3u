@@ -160,6 +160,254 @@ http://satelliteiptv.xyz:8080/Mort4K/1bhrcnx2z/54678
 #EXTINF:-1,beIN Sports Max 8 FR
 http://satelliteiptv.xyz:8080/Mort4K/1bhrcnx2z/5466
 
+#EXTINF:-1,✽✽⭒ Sports ⭒✽✽
+#EXTINF:-1, Матч! HD
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1, Матч! HD
+https://bl.uma.media/live/133529/HLS/4614144_32883584/1/1/playlist.m3u8
+#EXTINF:-1,Матч! HD
+https://bl.uma.media/live/133529/HLS/4614144_32883584_21153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1, МАТЧ ТВ HD
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchhd_nocensored
+#EXTINF:-1,МАТЧ! АРЕНА
+http://91.210.251.19:4866/udp/239.0.1.123:4000
+#EXTINF:-1,Матч! Арена
+http://185.184.233.180:5000/udp/225.1.2.156:1234
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://91.210.251.19:4866/udp/239.0.20.15:4000
+#EXTINF:-1,Матч! Боец
+http://185.184.233.180:5000/udp/225.1.2.157:1234
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://91.210.251.19:4866/udp/239.0.1.34:4000
+#EXTINF:-1, Матч! Игра
+http://46.174.83.66/Match_Igra/index.m3u8?em9uYS1pcHR2LnJ1
+#EXTINF:-1,Матч! Игра
+http://185.184.233.180:5000/udp/225.1.2.155:1234
+#EXTINF:-1,МАТЧ! ИГРА
+http://91.210.251.19:4866/udp/239.0.1.124:4000
+#EXTINF:-1, Матч! Планета
+https://sc.id-tv.kz:443/MatchPlaneta_36_37.m3u8
+#EXTINF:-1,Матч! Премьер HD
+http://83.222.205.65:8080/mpremier_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР (udp)
+http://91.210.251.19:4866/udp/239.0.1.56:4000
+#EXTINF:-1,Матч Премьер HD
+http://myott.tv/stream/MEITIIUJNS/193.m3u8
+#EXTINF:-1, МАТЧ! СТРАНА
+https://bl.uma.media/live/291661/HLS/4614144_32883584_21153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?telegramm=yossotv
+#EXTINF:-1, МАТЧ! СТРАНА
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchstrana
+#EXTINF:-1, МАТЧ! СТРАНА
+https://livetv.mylifeisgood.ml/channels/matchstrana
+#EXTINF:-1,МАТЧ! СТРАНА
+http://91.210.251.19:4866/udp/239.0.1.89:4000
+#EXTINF:-1,Матч! Страна
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=matchstrana
+#EXTINF:-1,Матч! Страна
+http://st1.astra-uk.ru:81/a163c248a70cc2f46b9dca5b9ba140f1/playlist.m3u8
+#EXTINF:-1,Матч! Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_32883584_21153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1,Матч! Страна HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,Матч Футбол 1
+http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 (udp)
+http://91.210.251.19:4866/udp/239.0.1.38:4000
+#EXTINF:-1,RUS: МАТЧ! ФУТБОЛ 1 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5456
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD (udp)
+http://91.210.251.19:4866/udp/239.0.20.13:4000
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 (udp)
+http://91.210.251.19:4866/udp/239.0.1.109:4000
+#EXTINF:-1,Матч Футбол 2
+http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 (udp)
+http://91.210.251.19:4866/udp/239.0.1.144:4000
+#EXTINF:-1,Матч Футбол 3
+http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
+#EXTINF:-1,KHL Prime
+http://st1.astra-uk.ru:81/d9e765c5b8f65c43507d4dd00b4b1a7b/playlist.m3u8
+#EXTINF:-1,KHL HD
+http://46.174.83.66/KHL_HD/mpegts
+#EXTINF:-1,beIN Sports 1 4K
+http://195.154.200.168:8000/play/a01l/index.m3u8
+#EXTINF:-1,beIN Sports 1 English HD
+http://195.154.200.168:8000/play/a00s/index.m3u8
+#EXTINF:-1,beIN Sports 1 English SD
+http://195.154.200.168:8000/play/a017/index.m3u8
+#EXTINF:-1,beIN Sports 1 FHD
+http://195.154.200.168:8000/play/a01c/index.m3u8
+#EXTINF:-1,beIN Sports 1 French HD
+http://195.154.200.168:8000/play/a00u/index.m3u8
+#EXTINF:-1,beIN Sports 1 French SD
+http://195.154.200.168:8000/play/a019/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://195.154.200.168:8000/play/a00i/index.m3u8
+#EXTINF:-1,beIN Sports 1 Premium FHD
+http://195.154.200.168:8000/play/a01i/index.m3u8
+#EXTINF:-1,beIN Sports 1 Premium HD
+http://195.154.200.168:8000/play/a00p/index.m3u8
+#EXTINF:-1,beIN Sports 1 Premium SD
+http://195.154.200.168:8000/play/a014/index.m3u8
+#EXTINF:-1,beIN Sports 1 SD
+http://195.154.200.168:8000/play/a00w/index.m3u8
+#EXTINF:-1,beIN Sports 2 4K
+http://195.154.200.168:8000/play/a01m/index.m3u8
+#EXTINF:-1,beIN Sports 2 English HD
+http://195.154.200.168:8000/play/a00t/index.m3u8
+#EXTINF:-1,beIN Sports 2 English SD
+http://195.154.200.168:8000/play/a018/index.m3u8
+#EXTINF:-1,beIN Sports 2 FHD
+http://195.154.200.168:8000/play/a01b/index.m3u8
+#EXTINF:-1,beIN Sports 2 French HD
+http://195.154.200.168:8000/play/a00v/index.m3u8
+#EXTINF:-1,beIN Sports 2 French SD
+http://195.154.200.168:8000/play/a01a/index.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://195.154.200.168:8000/play/a00j/index.m3u8
+#EXTINF:-1,beIN Sports 2 Premium FHD
+http://195.154.200.168:8000/play/a01j/index.m3u8
+#EXTINF:-1,beIN Sports 2 Premium HD
+http://195.154.200.168:8000/play/a00q/index.m3u8
+#EXTINF:-1,beIN Sports 2 Premium SD
+http://195.154.200.168:8000/play/a015/index.m3u8
+#EXTINF:-1,beIN Sports 2 SD
+http://195.154.200.168:8000/play/a00y/index.m3u8
+#EXTINF:-1,beIN Sports 3 4K
+http://195.154.200.168:8000/play/a01n/index.m3u8
+#EXTINF:-1,beIN Sports 3 4K (clone)
+http://195.154.200.168:8000/play/a020/index.m3u8
+#EXTINF:-1,beIN Sports 3 FHD
+http://195.154.200.168:8000/play/a01g/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://195.154.200.168:8000/play/a00k/index.m3u8
+#EXTINF:-1,beIN Sports 3 Premium FHD
+http://195.154.200.168:8000/play/a01k/index.m3u8
+#EXTINF:-1,beIN Sports 3 Premium HD
+http://195.154.200.168:8000/play/a00r/index.m3u8
+#EXTINF:-1,beIN Sports 3 Premium SD
+http://195.154.200.168:8000/play/a016/index.m3u8
+#EXTINF:-1,beIN Sports 3 SD
+http://195.154.200.168:8000/play/a00x/index.m3u8
+#EXTINF:-1,beIN Sports 4 4K
+http://195.154.200.168:8000/play/a01o/index.m3u8
+#EXTINF:-1,beIN Sports 4 FHD
+http://195.154.200.168:8000/play/a01e/index.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://195.154.200.168:8000/play/a00l/index.m3u8
+#EXTINF:-1,beIN Sports 4 SD
+http://195.154.200.168:8000/play/a011/index.m3u8
+#EXTINF:-1,beIN Sports 5 4K
+http://195.154.200.168:8000/play/a01p/index.m3u8
+#EXTINF:-1,beIN Sports 5 FHD
+http://195.154.200.168:8000/play/a01d/index.m3u8
+#EXTINF:-1,beIN Sports 5 HD
+http://195.154.200.168:8000/play/a00m/index.m3u8
+#EXTINF:-1,beIN Sports 5 SD
+http://195.154.200.168:8000/play/a010/index.m3u8
+#EXTINF:-1,beIN Sports 6 4K
+http://195.154.200.168:8000/play/a01q/index.m3u8
+#EXTINF:-1,beIN Sports 6 FHD
+http://195.154.200.168:8000/play/a01f/index.m3u8
+#EXTINF:-1,beIN Sports 6 HD
+http://195.154.200.168:8000/play/a00n/index.m3u8
+#EXTINF:-1,beIN Sports 6 SD
+http://195.154.200.168:8000/play/a00z/index.m3u8
+#EXTINF:-1,beIN Sports 7 4K
+http://195.154.200.168:8000/play/a01r/index.m3u8
+#EXTINF:-1,beIN Sports 7 FHD
+http://195.154.200.168:8000/play/a01h/index.m3u8
+#EXTINF:-1,beIN Sports 7 HD
+http://195.154.200.168:8000/play/a00o/index.m3u8
+#EXTINF:-1,beIN Sports 7 SD
+http://195.154.200.168:8000/play/a012/index.m3u8
+#EXTINF:-1,beIN Sports English 1 4K
+http://195.154.200.168:8000/play/a01v/index.m3u8
+#EXTINF:-1,beIN Sports English 2 4K
+http://195.154.200.168:8000/play/a01w/index.m3u8
+#EXTINF:-1,beIN Sports French 1 4K
+http://195.154.200.168:8000/play/a01x/index.m3u8
+#EXTINF:-1,beIN Sports French 2 4K
+http://195.154.200.168:8000/play/a01y/index.m3u8
+#EXTINF:-1,beIN Sports HD
+http://195.154.200.168:8000/play/a00h/index.m3u8
+#EXTINF:-1,beIN Sports NBA 4K
+http://195.154.200.168:8000/play/a01z/index.m3u8
+#EXTINF:-1,beIN Sports NBA HD
+http://195.154.200.168:8000/play/a013/index.m3u8
+#EXTINF:-1,beIN Sports News HD
+http://195.154.200.168:8000/play/a00g/index.m3u8
+#EXTINF:-1,beIN Sports Premium 1 4K
+http://195.154.200.168:8000/play/a01s/index.m3u8
+#EXTINF:-1,beIN Sports Premium 2 4K
+http://195.154.200.168:8000/play/a01t/index.m3u8
+#EXTINF:-1,beIN Sports Premium 3 4K
+http://195.154.200.168:8000/play/a01u/index.m3u8
+#EXTINF:-1,Amazon Prime 1 HD Events
+http://195.154.200.168:8002/play/a008/index.m3u8
+#EXTINF:-1,Amazon Prime 2 HD Events
+http://195.154.200.168:8002/play/a009/index.m3u8
+#EXTINF:-1,Amazon Prime 3 HD Events
+http://195.154.200.168:8002/play/a00a/index.m3u8
+#EXTINF:-1,Amazon Prime 4 HD Events
+http://195.154.200.168:8002/play/a00b/index.m3u8
+#EXTINF:-1,Amazon Prime 5 HD Events
+http://195.154.200.168:8002/play/a00c/index.m3u8
+#EXTINF:-1,Amazon Prime 6 HD Events
+http://195.154.200.168:8002/play/a00d/index.m3u8
+#EXTINF:-1,Amazon Prime 7 HD Events
+http://195.154.200.168:8002/play/a00e/index.m3u8
+#EXTINF:-1,Amazon Prime 8 HD Events
+http://195.154.200.168:8002/play/a00f/index.m3u8
+#EXTINF:-1,Canal+ Premier League HD
+http://195.154.200.168:8002/play/a007/index.m3u8
+#EXTINF:-1,Multi Sports 1 HD Events
+http://195.154.200.168:8002/play/a001/index.m3u8
+#EXTINF:-1,Multi Sports 2 HD Events
+http://195.154.200.168:8002/play/a002/index.m3u8
+#EXTINF:-1,Multi Sports 3 HD Events
+http://195.154.200.168:8002/play/a003/index.m3u8
+#EXTINF:-1,Multi Sports 4 HD Events
+http://195.154.200.168:8002/play/a004/index.m3u8
+#EXTINF:-1,Multi Sports 5 HD Events
+http://195.154.200.168:8002/play/a005/index.m3u8
+#EXTINF:-1,Multi Sports 6 HD Events
+http://195.154.200.168:8002/play/a006/index.m3u8
+#EXTINF:-1,Sport En France
+http://195.154.200.168:8002/play/a00g/index.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://195.154.200.168:8003/play/a001/index.m3u8
+#EXTINF:-1,RMC Sport 10 HD
+http://195.154.200.168:8003/play/a00a/index.m3u8
+#EXTINF:-1,RMC Sport 11 HD
+http://195.154.200.168:8003/play/a00b/index.m3u8
+#EXTINF:-1,RMC Sport 12 HD
+http://195.154.200.168:8003/play/a00c/index.m3u8
+#EXTINF:-1,RMC Sport 13 HD
+http://195.154.200.168:8003/play/a00d/index.m3u8
+#EXTINF:-1,RMC Sport 14 HD
+http://195.154.200.168:8003/play/a00e/index.m3u8
+#EXTINF:-1,RMC Sport 15 HD
+http://195.154.200.168:8003/play/a00f/index.m3u8
+#EXTINF:-1,RMC Sport 16 HD
+http://195.154.200.168:8003/play/a00g/index.m3u8
+#EXTINF:-1,RMC Sport 2 HD
+http://195.154.200.168:8003/play/a002/index.m3u8
+#EXTINF:-1,RMC Sport 3 HD
+http://195.154.200.168:8003/play/a003/index.m3u8
+#EXTINF:-1,RMC Sport 4 HD
+http://195.154.200.168:8003/play/a004/index.m3u8
+#EXTINF:-1,RMC Sport 5 HD
+http://195.154.200.168:8003/play/a005/index.m3u8
+#EXTINF:-1,RMC Sport 6 HD
+http://195.154.200.168:8003/play/a006/index.m3u8
+#EXTINF:-1,RMC Sport 7 HD
+http://195.154.200.168:8003/play/a007/index.m3u8
+#EXTINF:-1,RMC Sport 8 HD
+http://195.154.200.168:8003/play/a008/index.m3u8
+#EXTINF:-1,RMC Sport 9 HD
+http://195.154.200.168:8003/play/a009/index.m3u8
+
 #EXTINF:-1,Now直播331台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1,Now新聞332台

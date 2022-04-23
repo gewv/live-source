@@ -709,6 +709,15 @@ http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/54678
 #EXTINF:-1,beIN Sports Max 8 FR
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5466
 
+#EXTINF:-1,NBATV
+https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1,ESPN
+https://d1k4ybyeycgihx.cloudfront.net/hls/espn/chunks.m3u8
+#EXTINF:-1,TNT 
+https://d1k4ybyeycgihx.cloudfront.net/hls/TNT/chunks.m3u8
+#EXTINF:-1,ABC
+https://d1k4ybyeycgihx.cloudfront.net/hls/abc/chunks.m3u8
+
 #EXTINF:-1,CNBC
 http://61.221.81.93:8595/hls/24/80/cnbc90.m3u8
 #EXTINF:-1,NHK新闻

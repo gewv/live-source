@@ -774,15 +774,15 @@ http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum
 http://50.7.218.42:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 #EXTINF:-1,八大第一台
 http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1,USA Soccer01: England - Premier League : Aston Villa vs Liverpool @ 03:00pm
+#EXTINF:-1,USA Soccer01:
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/38039
-#EXTINF:-1,USA Soccer02: England - Premier League : Aston Villa vs Liverpool @ 03:00pm
+#EXTINF:-1,USA Soccer02:
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/21812
-#EXTINF:-1,USA Soccer03: Spain - La Liga : Valencia vs Real Betis @ 01:00pm
+#EXTINF:-1,USA Soccer03:
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/21823
-#EXTINF:-1,USA Soccer04: Spain - La Liga : Granada vs Athletic Club @ 02:00pm
+#EXTINF:-1,USA Soccer04:
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/21824
-#EXTINF:-1,USA Soccer05: Spain - La Liga : Barcelona vs Celta de Vigo @ 03:30pm
+#EXTINF:-1,USA Soccer05:
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/21825
 #EXTINF:-1,USA Soccer06: 
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/21826

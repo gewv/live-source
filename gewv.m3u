@@ -1,15 +1,3 @@
-#EXTINF:-1,Liverpool x Real Madrid FHD
-https://www.projetonoticias.com/p/canal-3.html?Ji1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8
-#EXTINF:-1,TNT
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/q3n_eoj6c38tXOBmM7FNEHSGNAjl4ImVuY29kZXJfc2V0IZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1,SBT
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-yI6ImVluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1,HD PC
-https://www.projetonoticias.com/p/canal-3.html?Ji1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8
-#EXTINF:-1,HD PC2
-https://www.fullmaxtv.net/2022/05/tnt.html?BfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1,ESPN 🇪🇸
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
 #EXTINF:-1,StarWorld
 http://60.249.146.250:8561/http/60.251.39.91:8081/hls/61/803/ch02.m3u8
 #EXTINF:-1,衛視電影台

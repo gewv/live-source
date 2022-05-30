@@ -1,3 +1,61 @@
+#EXTM3U
+#EXTINF:-1,翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1,翡翠台2
+http://120.84.96.32:808/hls/25/index.m3u8
+#EXTINF:-1,翡翠台3
+http://radius.8866.org:880/hls/80/index.m3u8
+#EXTINF:-1,TVB 明珠台
+http://120.84.96.32:808/hls/26/index.m3u8
+#EXTINF:-1,TVB 明珠台2
+http://radius.8866.org:880/hls/84/index.m3u8
+#EXTINF:-1,TVB J2
+http://120.84.96.32:808/hls/86/index.m3u8
+#EXTINF:-1,TVB J23
+https://tx-b2.xsafetech.com/live/11666.m3u8
+#EXTINF:-1,TVB J24
+https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+#EXTINF:-1,TVB J25
+https://bf.kanjc.com/11666/11666.m3u8
+#EXTINF:-1,TVB J26
+http://120.84.96.33:808/hls/86/index.m3u8
+#EXTINF:-1,TVB J27
+https://h.youtalk.top/hkj2b/49.m3u8
+#EXTINF:-1,TVB J28
+http://120.84.96.33:808/hls/86/index.m3u8
+#EXTINF:-1,TVB J29 
+https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8#isVideo=true#
+#EXTINF:-1,TVB 明珠台3
+http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+#EXTINF:-1,TVB 明珠台4
+http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1,TVB 星河台
+http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+#EXTINF:-1,TVB
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1,无线财经
+http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+#EXTINF:-1,无线J1台
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1,RTHK32
+http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+#EXTINF:-1,RHK32
+http://radius.8866.org:880/hls/90/
+#EXTINF:-1,Now新闻
+http://51.222.193.142:10011/9
+#EXTINF:-1,Now直播
+http://51.222.193.142:10011/8
+#EXTINF:-1,Now Sports Prime
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1,无线新闻
+http://livesec.mudu.tv/watch/0t5ejs.m3u8
+#EXTINF:-1,无线新闻2
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1,ViuTV
+http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+
+
+
 #EXTINF:-1,民视
 http://128.14.50.198:8880/m3u8/4wRrgUtCGM1beaxhmjBzDqOEG92_LbvebYeJqSYjzErymkXQUpRJyMv6oXWM1poP1gejRC7bL-ZmMu7Ug0H4LA
 #EXTINF:-1,中视

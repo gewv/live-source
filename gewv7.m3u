@@ -1,0 +1,110 @@
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BARCA TV
+http://93.152.174.144:4000/play/barcatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BBC1
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sport 1 AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Cuatro HD SP
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Energy SP
+http://93.152.174.144:4000/play/energysp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Film4
+http://93.152.174.144:4000/play/film4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BBC1
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", WWE NETWORK
+http://93.152.174.144:4000/play/WWE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", ZEE IN
+http://93.152.174.144:4000/play/zee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", Zee Action IN
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/k-ultra-hd-resolution-icon-web-mobile-background-color-bar-rgb-static-screen-video-full-hd-k-k-resolutions-vector-186653749.jpg" group-title="SPORTS", SPORT TV 1 PT
+http://93.152.174.144:4000/play/a00f/index.m3u8

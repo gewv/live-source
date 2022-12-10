@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1,NOW
+http://us1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=24cce35b06aecc51433333
+#EXTINF:-1,ELTA1
+https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1 HD
 http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170477
 #EXTINF:-1,beIN SPORTS MAX 2 HD
